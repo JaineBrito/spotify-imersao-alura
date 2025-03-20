@@ -15,11 +15,11 @@ JavaScript: Interatividade e funcionalidades dinâmicas.
  
 Primeiro, clone o repositório para sua máquina local.
 
-3. Abra o Projeto
+2. Abra o Projeto
    
 Após o clone, abra a pasta do projeto no seu editor de código preferido (recomendo usar o VS Code).
 
-5. Abrindo no Navegador
+3. Abrindo no Navegador
    
 Você pode abrir o arquivo index.html diretamente no seu navegador para visualizar o projeto.
 
